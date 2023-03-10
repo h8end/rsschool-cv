@@ -16,3 +16,20 @@ I am currently studying at BNTU, but I don't like my profession, so I try to do 
 
 * HTML, CSS, JS (basic)
 * Figma, Git, GitHub, Sass/Scss
+## Code Examples: 
+
+```
+let answer = comfirm("...");
+if (answer) {
+    console.log('..')
+} else {
+    console.log('.')
+}
+```
+
+## Education:
+
+* Udemy. Web-developer 2022. (in process)
+* Udemy. JavaScript + React. (in process)
+* Belarusian National Technical University
+
