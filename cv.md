@@ -33,3 +33,7 @@ if (answer) {
 * Udemy. JavaScript + React. (in process)
 * Belarusian National Technical University
 
+## Languages
+
+Russian - native speaker.\
+English - so-so)
